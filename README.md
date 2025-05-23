@@ -30,8 +30,10 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me 
+
 📧 Email: Emramadhani12@gmail.com 
+
 🌐 Portfolio: https://github.com/RahimHamisi  
 
 ---
