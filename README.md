@@ -4,6 +4,8 @@
 
 🎓 **Final Year Student - BSc Information Systems Management**  
 💻 **Building with Django, GraphQL, REST APIs**  
+💻 **Developing Frontend Web Site View with Vue JS **  
+
 📱 **Exploring Flutter for Mobile Development**  
 
 ---  
