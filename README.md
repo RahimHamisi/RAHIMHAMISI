@@ -9,8 +9,9 @@
 ---  
 
 ## 🛠 Tech Stack  
-- **Backend**: Django | GraphQL | REST API  
-- **Mobile Application**: Flutter  
+- **Backend**: Django | GraphQL | REST API
+- **Frontend** : Vue-Beginner
+- **Mobile Application**: Flutter  -Beginer
 - **Database**: PostgreSQL  
 - **Version Control**: Git | GitHub  
 
